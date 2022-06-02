@@ -1,4 +1,4 @@
-<p align="center"><a href="https://kmnu.or.id" target="_blank"><img src="assets/img/Logo_KMNU_Nasional_Original.png" width="200"></a></p>
+<p align="center"><a href="https://kmnu.or.id" target="_blank"><img src="https://assets.kiarta.id/Logo_KMNU_Nasional_Original.png" width="200"></a></p>
 <div align="center" style="text-decoration : none"> <h1 align="center"> Sentral Kode KMNU Pusat</h1> </div>
 
 ## Tentang
