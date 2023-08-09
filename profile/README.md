@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://kmnu.or.id" target="_blank">
-    <img src="./assets/img/kmnupusat_sari.png" width="100">
-    <img src="./assets/img/pusdatin.png" width="100">
-    <img src="./assets/img/kmnupusat_harun.png" width="110">
+    <img src="https://github.com/kmnupusat/.github/blob/main/profile/assets/img/kmnupusat_sari.png" width="100">
+    <img src="https://github.com/kmnupusat/.github/blob/main/profile/assets/img/pusdatin.png" width="100">
+    <img src="https://github.com/kmnupusat/.github/blob/main/profile/assets/img/kmnupusat_harun.png" width="110">
   </a>
 </p>
 
